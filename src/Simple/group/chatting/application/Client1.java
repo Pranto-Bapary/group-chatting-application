@@ -130,7 +130,7 @@ public class Client1 implements ActionListener, Runnable {
 
         // Finalize window settings
         f.setSize(450, 650);
-        f.setLocation(50, 50);
+        f.setLocation(10, 50);
         f.setUndecorated(true);
         f.getContentPane().setBackground(Color.WHITE);
         f.setVisible(true);

@@ -112,7 +112,7 @@ public class Client3 implements ActionListener, Runnable {
 
         // Finalize window settings
         f.setSize(450, 650);
-        f.setLocation(560, 50);  // Shift window to the right (Increase X value)
+        f.setLocation(920, 50);  // Shift window to the right (Increase X value)
         f.setUndecorated(true);
         f.getContentPane().setBackground(Color.WHITE);
         f.setVisible(true);
